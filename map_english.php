@@ -11,7 +11,7 @@ $character_race = Array(
   8 => 'Troll',
   9 => 'Goblin',
   10 => 'Blood Elf',
-  11 => 'Drenai'
+  11 => 'Drenai',
   22 => 'Worgen');
 
 $character_class = Array(
