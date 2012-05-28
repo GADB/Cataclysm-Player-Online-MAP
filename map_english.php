@@ -38,5 +38,5 @@ $lang_defs = Array(
   'click_to_first' => 'Click: go to first'
 );
 
-include "/zone_names_english.php";
+include "zone_names_english.php";
 ?>

@@ -1,11 +1,7 @@
 <?php
-
-
-require_once("/func.php");
-
-
-require_once("/config/playermap_config.php");
-require_once '/libs/data_lib.php';
+require_once("config/playermap_config.php");
+require_once("func.php");
+require_once 'libs/data_lib.php';
 
 
 $realm_id = intval( $_COOKIE['cur_selected_realmd'] );

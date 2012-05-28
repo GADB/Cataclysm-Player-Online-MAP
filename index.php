@@ -4,7 +4,7 @@ require_once("func.php");
 require_once("map_english.php");
 
 ?>
-<HTML><HEAD><title>Online Playermap by Lasoto</title>
+<HTML><HEAD><title>Online Playermap</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style type="text/css">
 <!--

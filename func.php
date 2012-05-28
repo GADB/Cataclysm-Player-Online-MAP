@@ -1,4 +1,6 @@
 <?php
+require_once("pomm_conf.php");
+
 class DBLayer
 {
 	var $link_id;
